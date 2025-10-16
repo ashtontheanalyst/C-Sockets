@@ -1,0 +1,2 @@
+When you run the server './server', you can see it's output by opening another terminal
+and connecting to the server with netcat 'nc localhost 3490'
