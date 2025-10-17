@@ -1,0 +1,5 @@
+This tutorial is from Eric O Meehan on Youtube:
+https://www.youtube.com/watch?v=gk6NL1pZi1M
+
+The tutorial was successful in teaching me sockets, now I can implement this with some
+chatGPT code for an HTTP local server serving up HTML pages...?
